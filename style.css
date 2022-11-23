@@ -13,3 +13,19 @@ footer{
     height: 250px;
 
 }
+
+.title1{
+    margin-top: 14px;
+    font-size: 25px;
+    margin-left: 10px;
+    color: white;
+}
+.title{
+    margin-left: 10px;
+    color: white;
+}
+
+p{
+    margin-left: 12px;
+    color: white;
+}
