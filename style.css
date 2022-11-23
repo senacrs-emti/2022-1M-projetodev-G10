@@ -9,8 +9,8 @@ header i{
 }
 
 footer{
-    background0-color: #01263a;
-    height: 200px;
+    background-color:  #01263a;
+    height: 250px;
 
 }
 
@@ -20,7 +20,7 @@ footer{
     margin-left: 10px;
     color: white;
 }
-.title{
+.title2{
     margin-left: 10px;
     color: white;
 }
@@ -28,4 +28,14 @@ footer{
 p{
     margin-left: 12px;
     color: white;
+}
+
+.linha{
+    margin-top: 40px;
+}
+
+.title3{
+    margin-left: 25px;
+    color: white;
+    margin-top: 10px;
 }
