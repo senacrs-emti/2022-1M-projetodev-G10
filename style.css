@@ -5,7 +5,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 body{
-    background: url('./mapa.png') no-repeat 0 80px #01263a;
+    background: url('./mapa.png') no-repeat 0 80px #01263a ;
     background-size: cover;
 }
 .titulo *{
@@ -44,7 +44,8 @@ body{
 #footer-escolhas{
     width: 60%;
     display: block;
-    float: left;
+    float: right;
+
 }
 .integrantes{
     color: white;
@@ -55,7 +56,12 @@ input{
     width: 20px;
     height: 20px;
 }
-
+.dec1970{
+    width: 100px;
+    height: 100px;
+    float: left;
+    color: red;
+}
 
 /* The Modal (background) */
 .modal {
